@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Book Search Website 📚
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Book Search Website**, a modern and interactive web application that allows users to search and explore books using the **Google Books API**. Built with **React** and styled with **React Bootstrap**, this project showcases technical expertise and creativity in developing responsive and engaging user interfaces.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features ✨
 
-### `npm start`
+- **Search and Explore Books**: Fetch detailed book information directly from the Google Books API.
+- **Modern Design**: Inspired by user-friendly UI/UX principles, implemented with **Figma** designs and custom images created in **Canva**.
+- **Responsive UI Components**: Built with **React Bootstrap**, featuring **spinners** and **carousel** for smooth interactions.
+- **Dynamic Routing**: Navigate between pages seamlessly using **React Router DOM**.
+- **Google Fonts**: Enhanced typography using the **Lato font**.
+- **Icons and Visual Appeal**: Integrated **FontAwesome** for visually appealing icons.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies & Tools 🛠️
 
-### `npm test`
+### **Frameworks and Libraries**
+- **React**:
+  - **Hooks**: `useState`, `useEffect`
+  - **React Router DOM**: For navigation between pages
+  - **Axios**: For API calls
+  - **Reusable Components** and **Props** for modularity and scalability
+- **React Bootstrap**: For styling and pre-designed components like spinners and carousels
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **Design Tools**
+- **Figma**: Used for crafting UI designs [![View Figma Design]([https://katherineoelsner.com/](https://www.figma.com/design/b3QrCAA1iAQ0EHTAUilGmH/Book-Details-Retrieve-Website?node-id=5-2&t=jCbECF0pWNgOy0eK-1))]
+- **Canva**: For creating custom images and assets
 
-### `npm run build`
+### **API**
+- **Google Books API**: Integrated to fetch book data in real-time
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Google Fonts**
+- Font: **Lato**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Node Version**
+- Developed with **Node.js v16.20.2**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Getting Started 🚀
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
+- Install **Node.js** (version 16.20.2 or above)
+- Install **npm** or **yarn**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Thenuka09/use-state.git
