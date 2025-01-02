@@ -1,0 +1,98 @@
+.imgBackground{
+    width: 100%;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: flex-end; 
+    position: relative; 
+    top: -300px; 
+    margin-right: 61px;
+  }
+
+.searchBar input{
+    position: relative;
+    background-color: #DCAA5A;
+    width: 417px;
+    font-size: 20px;
+    font-family: "Lato", serif;
+    height: 68px;
+    border: 1px solid #DCAA5A;
+    border-radius: 15px;
+    padding-left: 10px;
+    outline: none; 
+    transition: border-color 0.3s ease;
+}
+
+.searchBar input::placeholder {
+    color: #000000; 
+    font-size: 20px; 
+    font-weight: 500; 
+    opacity: 0.6; 
+    padding-left: 10px;
+    font-family: "Lato", serif;
+
+  }
+
+  .heroSection{
+    font-size: 45px;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    top: -290px;
+    right: -10px;
+    color: #ffffff;
+    letter-spacing: 3px;
+    font-family: "Lato", serif;
+
+  }
+
+  .searchBar input:focus {
+    border-color: #456D56; 
+  }
+
+  .searchBtn {
+    position: absolute; 
+    top: 50%; 
+    right: 40px; 
+    transform: translateY(-50%); 
+    background-color: transparent;
+    border: none; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    font-size: 20px; 
+    cursor: pointer;
+    color: #000000; 
+}
+
+.searchBtn:hover {
+    color: #456D56; 
+}
+
+.container{
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px, 0.5fr));
+    grid-gap: 20px;
+    box-sizing: border-box;
+    background-color: #f4f2e9;
+    padding: 30px;
+    border-radius: 15px;
+    position: relative;
+    top: -180px;
+    margin-bottom: -80px;
+}
+
+.spinnerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px; /* Adjust as needed */
+  color: #426550;
+  position: relative;
+  top: -200px;
+}
