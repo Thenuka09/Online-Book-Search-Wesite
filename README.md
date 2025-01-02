@@ -26,7 +26,8 @@ Welcome to the **Book Search Website**, a modern and interactive web application
 - **React Bootstrap**: For styling and pre-designed components like spinners and carousels
 
 ### **Design Tools**
-- **Figma**: Used for crafting UI designs [![View Figma Design]([[https://katherineoelsner.com/](https://www.figma.com/design/b3QrCAA1iAQ0EHTAUilGmH/Book-Details-Retrieve-Website?node-id=5-2&t=jCbECF0pWNgOy0eK-1)])]
+- **Figma**: Used for crafting UI designs.  
+  [View the Figma design here](https://www.figma.com/design/b3QrCAA1iAQ0EHTAUilGmH/Book-Details-Retrieve-Website?node-id=5-2&t=jCbECF0pWNgOy0eK-1)
 - **Canva**: For creating custom images and assets
 
 ### **API**
