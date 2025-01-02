@@ -68,19 +68,23 @@ Welcome to the **Book Search Website**, a modern and interactive web application
 
 ## Screenshots 🖼️
 
-#### Home Page
+#### Home Page :
+<hr style="border-top: 1px solid #000000;">
 
 ![Home](https://github.com/user-attachments/assets/acccdf47-027f-4d4c-87f9-c93c46cceace)
 
-#### About Us Page
+#### About Us Page :
+<hr style="border-top: 1px solid #000000;">
 
 ![About](https://github.com/user-attachments/assets/af7b4b93-3617-48c4-bd87-d548ee0364ab)
 
-#### When User Search the Book Using Book Name
+#### When User Search the Book Using Book Name :
+<hr style="border-top: 1px solid #000000;">
 
 ![book](https://github.com/user-attachments/assets/9baeec4c-17af-42c2-85d6-459f910c05ca)
 
-#### When User Click the specific Book
+#### When User Click the specific Book :
+<hr style="border-top: 1px solid #000000;">
 
 ![details](https://github.com/user-attachments/assets/27ff8800-5b1a-4b18-9a4d-ebed178f51ca)
 
