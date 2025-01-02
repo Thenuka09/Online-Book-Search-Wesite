@@ -66,7 +66,29 @@ Welcome to the **Book Search Website**, a modern and interactive web application
 
 ---
 
-### Screenshots
+## Screenshots 🖼️
 
-![App Screenshot]((https://github.com/user-attachments/assets/acccdf47-027f-4d4c-87f9-c93c46cceace))
+#### Home Page
 
+![Home](https://github.com/user-attachments/assets/acccdf47-027f-4d4c-87f9-c93c46cceace)
+
+#### About Us Page
+
+![About](https://github.com/user-attachments/assets/af7b4b93-3617-48c4-bd87-d548ee0364ab)
+
+#### When User Search the Book Using Book Name
+
+![book](https://github.com/user-attachments/assets/9baeec4c-17af-42c2-85d6-459f910c05ca)
+
+#### When User Click the specific Book
+
+![details](https://github.com/user-attachments/assets/27ff8800-5b1a-4b18-9a4d-ebed178f51ca)
+
+---
+
+## Acknowledgements 📚
+
+- The [Google Books API](https://developers.google.com/books) team for providing the API.
+- [React](https://react.dev/) and [React Bootstrap](https://react-bootstrap.netlify.app/) for the excellent libraries and tools.
+- [Figma](https://www.figma.com) : Crafted the user interface with precision and creativity.
+- [Canva](https://www.canva.com/) : Designed captivating images and graphics to elevate the visual appeal.
