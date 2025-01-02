@@ -64,3 +64,9 @@ Welcome to the **Book Search Website**, a modern and interactive web application
    ```bash
    npm start
 
+---
+
+### Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
